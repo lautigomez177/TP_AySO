@@ -1,0 +1,10 @@
+root /bin/bash
+ubuntu /bin/bash
+vagrant /bin/bash
+lxd /bin/false
+pollinate /bin/false
+tss /bin/false
+sync /bin/sync
+_apt /usr/sbin/nologin
+backup /usr/sbin/nologin
+bin /usr/sbin/nologin
